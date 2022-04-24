@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Chemistpim coming soon" />
         <p className="">
-          Get started by editing <code>pages/index.js</code>
+          </code>
         </p>
       </main>
 
