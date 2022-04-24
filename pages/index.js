@@ -11,8 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="chemistpim coming soon" />
-        <p className="description">
+        <Header title="Chemistpim coming soon" />
+        <p className="">
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
